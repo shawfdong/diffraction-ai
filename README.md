@@ -1,2 +1,1 @@
-# diffraction-ai
-Diffraction AI
+# Diffraction AI
